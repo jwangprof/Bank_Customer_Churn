@@ -15,9 +15,9 @@ To predict **customer attrition** (churn) based on various **categorical** and *
 1. **Business Problem Formulation (Part1)**
 2. **Data Collection (Part1)**
 3. **Data Processing and Manipulation (Part1)**
-4. **EDA Insights(Part1)**
-5. **Predictive model to classify customers as either "attrited" or "non-attrited (Part 2).**
-6. **Model Evaluation and Interpretation(Part2).**
+4. **EDA Insights(Part2)**
+5. **Predictive model to classify customers as either "attrited" or "non-attrited (Part 3).**
+6. **Model Evaluation and Interpretation(Part23.**
 7. **Recommendation**
 ---
 
